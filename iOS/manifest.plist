@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://git.oschina.net/careFeng/coolshownetTest/tree/master/iOS/CoolShowDistribution.ipa</string>
+					<string>https://github.com/coolshowmobile/test/blob/master/iOS/CoolShowDistribution.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://git.oschina.net/careFeng/coolshownetTest/blob/master/iOS/57*57.png</string>
+					<string>https://github.com/coolshowmobile/test/blob/master/iOS/57*57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://git.oschina.net/careFeng/coolshownetTest/blob/master/iOS/512*512.png</string>
+					<string>https://github.com/coolshowmobile/test/blob/master/iOS/512*512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
